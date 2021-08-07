@@ -58,4 +58,4 @@ function newCard() {
         renderGame()        
     }
 }
-// javascript
+// writen by adamIreland 2021 adam.frontend.developer@gmail.com
